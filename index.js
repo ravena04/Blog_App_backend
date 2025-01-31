@@ -4,7 +4,7 @@ const bcrypt = require('bcrypt');
 const cors = require('cors');
 const app = express();
 
-const url = "mongodb://localhost:27017/";
+const url = "mongodb+srv://Ravena2005:Ravena2005@ravena.9eipe.mongodb.net/";
 const dbName = 'BlogApp';
 
 // Middleware
